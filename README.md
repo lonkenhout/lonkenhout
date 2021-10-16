@@ -26,7 +26,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Kali](https://img.shields.io/badge/-Kali-05122A?style=flat&logo=kali)
+![Kali](https://img.shields.io/badge/-Kali-05122A?style=flat&logo=kalilinux)
 
 
 ### Other
