@@ -1,7 +1,7 @@
-<img src="https://komarev.com/ghpvc/?username=lonkenhout&color=brightgreen" alt="watching_count" />&nbsp;
-<img src="https://img.shields.io/badge/Focus-Ethical%20hacking-brightgreen" />
 
 ## About me
+<img align="right" src="https://komarev.com/ghpvc/?username=lonkenhout&color=brightgreen" alt="watching_count" />&nbsp;
+<img align="right" src="https://img.shields.io/badge/Focus-Ethical%20hacking-brightgreen" />
 
 - 👋 Hi, I’m @lonkenhout
 - 🎓 Undertaking(/finished) various educational activities:
