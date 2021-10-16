@@ -28,4 +28,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Kali](https://img.shields.io/badge/-Kali-05122A?style=flat&logo=kali)
 
+
+### Other
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonkenhout&layout=compact&hide=html" alt="Account stats" />
 <!--- add hackerrank --->
