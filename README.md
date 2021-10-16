@@ -1,4 +1,3 @@
-
 ## About me
 <img align="right" src="https://komarev.com/ghpvc/?username=lonkenhout&color=brightgreen" alt="watching_count" />&nbsp;
 <img align="right" src="https://img.shields.io/badge/Focus-Ethical%20hacking-brightgreen" />
@@ -47,3 +46,10 @@
 <a href="https://www.linkedin.com/in/louk-onkenhout-5594bb193/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.hackerrank.com/loukonkenhout" target="_blank"><img src="https://img.shields.io/badge/HackerRank-39414e?&style=for-the-badge&logo=hackerrank" alt="HackerRank"></a>
 <a href="https://tryhackme.com/p/SirSuspicious" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212529?&style=for-the-badge&logo=tryhackme" alt="TryHackMe"></a>
+
+
+<!--- 
+Useful links:
+	- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
+	
+--->
