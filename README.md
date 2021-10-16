@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Focus-Ethical%20hacking-brightgreen" />
 
 ### About me
-
+---
 - 👋 Hi, I’m @lonkenhout
 - 🎓 Undertaking(/finished) various educational activities:
 	- BSc Computer Science at Vrije Universiteit Amsterdam (Completed)
