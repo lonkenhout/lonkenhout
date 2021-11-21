@@ -14,7 +14,7 @@
 	- OSCP
 	- etc..
 - 👀 Ethical hacking/CTF are my primary interests, but I love anything programming or otherwise tech-related stuff.
-
+- I also like [chess](https://lichess.org/@/lwoodb)
 
 
 ## Relevant tech skills
