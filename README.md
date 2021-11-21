@@ -45,7 +45,7 @@
 ### Connect
 <a href="https://www.linkedin.com/in/louk-onkenhout-5594bb193/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.hackerrank.com/loukonkenhout" target="_blank"><img src="https://img.shields.io/badge/HackerRank-39414e?&style=for-the-badge&logo=hackerrank" alt="HackerRank"></a>
-<a href="https://tryhackme.com/p/SirSuspicious" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212529?&style=for-the-badge&logo=tryhackme" alt="TryHackMe"></a>
+<a href="https://tryhackme.com/p/lwood" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212529?&style=for-the-badge&logo=tryhackme" alt="TryHackMe"></a>
 
 
 <!--- 
