@@ -1,6 +1,6 @@
 ## About me
 <img align="right" src="https://komarev.com/ghpvc/?username=lonkenhout&color=brightgreen" alt="watching_count" />&nbsp;
-<img align="right" src="https://img.shields.io/badge/Focus-Ethical%20hacking-brightgreen" />
+<img align="right" src="https://img.shields.io/badge/Focus-Programming-brightgreen" />
 
 - 👋 Hi, I’m @lonkenhout
 - 🎓 Undertaking(/finished) various educational activities:
@@ -9,11 +9,7 @@
 	- Hackerrank
 	- TryHackMe
 	- HackTheBox
-- 🌱 Also interested in certifying myself in the near future:
-	- Comptia pentest+
-	- OSCP
-	- etc..
-- 👀 Ethical hacking/CTF are my primary interests, but I love anything programming or otherwise tech-related stuff.
+- 👀 Programming/CTF are my primary interests, love other tech-related things as well.
 - I also like [chess](https://lichess.org/@/lwoodb)
 
 
