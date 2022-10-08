@@ -30,6 +30,7 @@
 #### Familiar with limited (to decent) experience
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-05122A?style=for-the-badge&logo=microsoftazure)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=for-the-badge&logo=androidstudio)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter)&nbsp;
 ![C%23](https://img.shields.io/badge/-C%23-05122A?style=for-the-badge&logo=csharp)&nbsp;
 
 ## Github Stats
